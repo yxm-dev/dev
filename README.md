@@ -4,4 +4,4 @@ Shell
 -------
 
 * [bkp.sh](https://github.com/yxm-dev/bkp.sh): intuitive command line interface for
-  `[Rclone](https://github.com/rclone/rclone){: .monospace}`
+  <a href="https://github.com/rclone/rclone"><span style="font-family:monospace;">Rclone</span></a>
