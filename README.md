@@ -23,3 +23,14 @@ Shell
   [translate-shell](https://github.com/soimort/translate-shell).
 * [web.sh](https://github.com/yxm-dev/web.sh): tool to search in browsers an open bookmarked pages from
   terminal commands.
+  
+Vim
+-----
+
+* [essence.vim](https://github.com/yxm-dev/essence.vim): a general purpose eight colors colorscheme
+* [mpc.vim](https://github.com/yxm-dev/mpc.vim): a syntax highlight for the
+  [Math-Phys-Cat Wiki](https://wiki.math-phys.group) syntax
+* [org.vim](https://github.com/yxm-dev/org.vim): an organization tool based on
+  [vimwiki](https://github.com/vimwiki/vimwiki)
+* [vimtex-colors.vim](https://github.com/yxm-dev/vimtex-colors.vim): a colorscheme for the latex syntax
+  highlight provided by [vimtex](https://github.com/lervag/vimtex).
