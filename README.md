@@ -11,6 +11,7 @@ Shell
   make command line easier.
 * [emutt.sh](https://github.com/yxm-dev/emutt.sh): intends to make the configuration of
   [mutt](http://www.mutt.org/) mail client easier even for multiple accounts.
+  [menu.sh](https://github.com/yxm-dev/menu.sh): an interactive menu written in pure bash.
 * [pkg.sh](https://github.com/yxm-dev/pkg.sh): simple package builder written in pure shell and aimed to
   provide standardization to pure bash projects.
 * [pm.sh](https://github.com/yxm-dev/pm.sh): universal package manager with display in
