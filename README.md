@@ -13,7 +13,7 @@ Shell
   [mutt](http://www.mutt.org/) mail client easier even for multiple accounts.
   [menu.sh](https://github.com/yxm-dev/menu.sh): an interactive menu written in pure bash.
 * [pkg.sh](https://github.com/yxm-dev/pkg.sh): simple package builder written in pure shell and aimed to
-  provide standardization to pure bash projects.
+  provide standardization to pure bash projects. With interface in `Go`.
 * [pm.sh](https://github.com/yxm-dev/pm.sh): universal package manager with display in
   [fzf](https://github.com/junegunn/fzf).
 * [sw.sh](https://github.com/yxm-dev/sw.sh): pure shell static website creator based in
