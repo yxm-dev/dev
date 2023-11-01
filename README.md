@@ -8,8 +8,6 @@ ordering.
 Bash
 -------
 
-* [bkp.sh](https://github.com/yxm-dev/bkp.sh): intuitive command line interface for
-  [rclone]("https://github.com/rclone/rclone).
 * [cvt.sh](https://github.com/yxm-dev/cvt.sh): shell script intended to be simple, intuitive and universal
   converter for the daily stuff.
 * [devto.sh](https://github.com/yxm-dev/devto.sh): CLI tool to configure and synchronize local directories
@@ -32,7 +30,6 @@ Bash
   service.
 * [sync.sh](https://github.com/yxm-dev/sync.sh) synchronization tool based in
   [rsync](https://github.com/WayneD/rsync) with [git](https://git-scm.com/) integration.
-* [trsl.sh](https://github.com/yxm-dev/trsl.sh): interactive command line interface for [translate-shell](https://github.com/soimort/translate-shell).
 * [web.sh](https://github.com/yxm-dev/web.sh): tool to search in browsers an open bookmarked pages from
   terminal commands.
   
@@ -42,3 +39,13 @@ Vim
 * [essence.vim](https://github.com/yxm-dev/essence.vim): a general purpose eight colors colorscheme
 * [vimtex-colors.vim](https://github.com/yxm-dev/vimtex-colors.vim): a colorscheme for the latex syntax
   highlight provided by [vimtex](https://github.com/lervag/vimtex).
+  
+Go
+----
+
+* TUI for [pkg.sh](https://github.com/yxm-dev/pkg.sh), made with `tview` library.
+
+Node.js
+----
+
+* [lab](https://codeberg.org/yxm/lab): a CLI for working in the `collab` project.
