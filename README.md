@@ -1,13 +1,15 @@
 
-Developments List
-========
+# Developments List
 
-The following is a list with some of my developments, classified by primary language and in alphabetical
-ordering.
+The following is a list with some of my Open Source developments, classified by primary language and in 
+alphabetical ordering. 
 
-Bash
--------
+* **Remark**. The projects were built from my own needs and some of them are in early development stage. So,
+  use with caution.
 
+## Bash
+
+* [aux.sh](https://github.com/yxm-dev/aux.sh): some basic scripts that I use recurrently.
 * [cvt.sh](https://github.com/yxm-dev/cvt.sh): shell script intended to be simple, intuitive and universal
   converter for the daily stuff.
 * [devto.sh](https://github.com/yxm-dev/devto.sh): CLI tool to configure and synchronize local directories
@@ -20,32 +22,27 @@ Bash
 * [g.sh](https://github.com/yxm-dev/g.sh): interactive command line interface for [git](https://git-scm.com/).
 * [gif.sh](https://github.com/yxm-dev/gif.sh): simple Bash function to create optimized `.gif` recordings from
   a selected screen area. Based in [ImageMagick](https://imagemagick.org/) and [gifsicle](https://github.com/kohler/gifsicle).
-* [gp.sh](https://github.com/yxm-dev/g.sh): tool to manage collections of [git](https://git-scm.com/) projects.
-* [pdf.sh](https://github.com/yxm-dev/pdf.sh): create a `.pdf` file from directories of `.md` files. Based in [pandoc](https://github.com/jgm/pandoc) 
+* [gpp.sh](https://github.com/yxm-dev/gpp.sh): tool to manage collections of [git](https://git-scm.com/) projects.
+* [lab.sh](https://github.com/yxm-dev/lab.sh): CLI for the [lab](https://lab.yxm.me) project.
+* [pdf.sh](https://github.com/yxm-dev/pdf.sh): create a `.pdf` file from directories of `.md` files. Based in
+  [pandoc](https://github.com/jgm/pandoc). 
 * [pkg.sh](https://github.com/yxm-dev/pkg.sh): simple package builder written in pure shell and aimed to
   provide standardization to pure bash projects. With interface in `Go`.
 * [sw.sh](https://github.com/yxm-dev/sw.sh): pure shell static website creator based in
-  [pandoc](https://github.com/jgm/pandoc) and in [katex](https://github.com/KaTeX/KaTeX).
+  [pandoc](https://github.com/jgm/pandoc).
 * [s3.sh](https://github.com/yxm-dev/s3.sh): `Bash` tool to easily manage and configure buckets in AWS S3
   service.
-* [sync.sh](https://github.com/yxm-dev/sync.sh) synchronization tool based in
-  [rsync](https://github.com/WayneD/rsync) with [git](https://git-scm.com/) integration.
+* [sync.sh](https://github.com/yxm-dev/sync.sh) synchronization tool based in [rsync](https://github.com/WayneD/rsync).
 * [web.sh](https://github.com/yxm-dev/web.sh): tool to search in browsers an open bookmarked pages from
   terminal commands.
   
-Vim
------
+## Vim
 
 * [essence.vim](https://github.com/yxm-dev/essence.vim): a general purpose eight colors colorscheme
 * [vimtex-colors.vim](https://github.com/yxm-dev/vimtex-colors.vim): a colorscheme for the latex syntax
   highlight provided by [vimtex](https://github.com/lervag/vimtex).
   
-Go
-----
+## Go
 
 * TUI for [pkg.sh](https://github.com/yxm-dev/pkg.sh), made with `tview` library.
 
-Node.js
-----
-
-* [lab](https://codeberg.org/yxm/lab): a CLI for working in the `collab` project.
