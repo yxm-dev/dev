@@ -1,13 +1,11 @@
 
-# Developments List
-
 The following is a list with some of my Open Source developments, classified by primary language and in 
 alphabetical ordering. 
 
 * **Remark**. The projects were built from my own needs and some of them are in early development stage. So,
   use with caution.
 
-## Bash
+# Bash
 
 * [aux.sh](https://github.com/yxm-dev/aux.sh): some basic scripts that I use recurrently.
 * [cvt.sh](https://github.com/yxm-dev/cvt.sh): shell script intended to be simple, intuitive and universal
@@ -36,13 +34,13 @@ alphabetical ordering.
 * [web.sh](https://github.com/yxm-dev/web.sh): tool to search in browsers an open bookmarked pages from
   terminal commands.
   
-## Vim
+# Vim
 
 * [essence.vim](https://github.com/yxm-dev/essence.vim): a general purpose eight colors colorscheme
 * [vimtex-colors.vim](https://github.com/yxm-dev/vimtex-colors.vim): a colorscheme for the latex syntax
   highlight provided by [vimtex](https://github.com/lervag/vimtex).
   
-## Go
+# Go
 
 * TUI for [pkg.sh](https://github.com/yxm-dev/pkg.sh), made with `tview` library.
 
